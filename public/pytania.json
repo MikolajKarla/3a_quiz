@@ -1,14 +1,5 @@
 [
         {
-            "pytanie":"Pytanie o płeć", 
-            "opis": "Jaką masz płeć",
-            "odp": [
-                "Kobieta",
-                "Mężczyzna",
-                "inna"
-            ]
-        },
-        {
             "pytanie": "Co to jest programowanie obiektowe?",
             "opis": "Opisz koncepcję programowania obiektowego.",
             "odp": [
